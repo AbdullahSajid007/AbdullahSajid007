@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm **Abdullah Sajid**
 
-I'm a passionate **Computer Science student** and an aspiring **AI Engineer & Software Developer**.  
+I'm a passionate **Computer Science student** and an aspiring **AI Engineer and AI Researcher**.  
 I love solving real-world problems through **efficient algorithms**, **intelligent systems**.  
 
 ---
