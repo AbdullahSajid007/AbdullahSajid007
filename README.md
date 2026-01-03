@@ -3,6 +3,7 @@
 I'm a passionate **Computer Science student** and an aspiring **AI Engineer and AI Researcher**.  
 I love solving real-world problems through **efficient algorithms**, **intelligent systems**.  
 
+**<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahSajid007&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahSajid007" /> </p>**
 ---
 
 ### 🧠 About Me
