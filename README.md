@@ -35,14 +35,12 @@ I love solving real-world problems through **efficient algorithms**, **intellige
 
 ### 📈 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahSajid007&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSajid007&layout=compact&langs_count=10&theme=tokyonight&hide_border=false" height="180" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahSajid007&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSajid007&layout=compact&langs_count=10&theme=tokyonight" height="180"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahSajid007&theme=react-dark&hide_border=false" alt="Activity Graph" height="230"/>
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahSajid007&theme=react-dark)
 
 ---
 
